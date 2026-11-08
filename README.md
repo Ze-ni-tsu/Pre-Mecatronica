@@ -4,7 +4,7 @@ Laboratorio centralizado autodidacta y monorepo de desarrollo práctico autodida
 
 * -- Teoría creada por Claude AI. --
 * -- Educación guiada por Claude AI. --
-* -- Prácticas independientes sin intervención de IA. --
+* -- Prácticas independientes sin intervención de AI. --
 
 ## Descripción del Repositorio
 
