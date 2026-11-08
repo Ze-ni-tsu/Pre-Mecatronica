@@ -12,7 +12,7 @@ Por medio de este repositorio se conocerá y practicará de forma autodidacta la
 
 Este repositorio usa la licencia [MIT](/LICENSE), por lo que cualquier persona puede hacer uso de este para aprender, replicar o usar sin ningún compromiso y totalmente gratis, siempre que respete y tenga en cuenta lo que se aclara en la Licencia.
 
-## Tecnología Usadas
+## Tecnologías Usadas
 
 <!-- markdownlint-disable MD033 -->
 * Markdown <img src="/img/md-icon.png" alt="Logo del lenguaje de marcado ligero Markdown" width=20 style="max-width=100">
