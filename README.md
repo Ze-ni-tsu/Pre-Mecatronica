@@ -22,29 +22,29 @@ Este repositorio usa la licencia [MIT](/LICENSE), por lo que cualquier persona p
 
 Este repositorio estará basado en un roadmap por **20** niveles y un **proyecto final**, los cuales son:
 
-| **Nivel** | **Título** | **Carpeta** |
-| :---: | :---: | :---: |
-| **0** | Entorno de trabajo, Git y método de estudio | [Nivel 0](/Nivel%200/) |
-| **1** | Aritmética y álgebra esencial | |
-| **2** | Funciones y trigonometría | |
-| **3** | Geometría | |
-| **4** | Álgebra lineal | |
-| **5** | Cálculo diferencial | |
-| **6** | Cálculo integral | |
-| **7** | Física mecánica | |
-| **8** | Lógica de programación con Python | |
-| **9** | Programación orientada a objetos | |
-| **10** | Circuitos eléctricos | |
-| **11** | Electrónica analógica | |
-| **12** | Electrónica digital | |
-| **13** | Microcontroladores y sistemas embebidos | |
-| **14** | Probabilidad y estadística | |
-| **15** | Ecuaciones diferenciales y sistemas dinámicos | |
-| **16** | Diseño asistido por computador (CAD) | |
-| **17** | Control y automatización | |
-| **18** | Robótica | |
-| **19** | IoT, visión por computador y Machine Learning | |
-| **Proyecto Final** | Brazo robótico inteligente | |
+| **Nivel** | **Título** | **Carpeta** | **Estado** |
+| :---: | :---: | :---: | :---: |
+| **0** | Entorno de trabajo, Git y método de estudio | [Nivel 0](/Nivel%200/) | ✅ |
+| **1** | Aritmética y álgebra esencial | | |
+| **2** | Funciones y trigonometría | | |
+| **3** | Geometría | | |
+| **4** | Álgebra lineal | | |
+| **5** | Cálculo diferencial | | |
+| **6** | Cálculo integral | | |
+| **7** | Física mecánica | | |
+| **8** | Lógica de programación con Python | | |
+| **9** | Programación orientada a objetos | | |
+| **10** | Circuitos eléctricos | | |
+| **11** | Electrónica analógica | | |
+| **12** | Electrónica digital | | |
+| **13** | Microcontroladores y sistemas embebidos | | |
+| **14** | Probabilidad y estadística | | |
+| **15** | Ecuaciones diferenciales y sistemas dinámicos | | |
+| **16** | Diseño asistido por computador (CAD) | | |
+| **17** | Control y automatización | | |
+| **18** | Robótica | | |
+| **19** | IoT, visión por computador y Machine Learning | | |
+| **Proyecto Final** | Brazo robótico inteligente | | |
 
 ## Referencias
 
